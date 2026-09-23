@@ -235,5 +235,4 @@ curl "http://127.0.0.1:8000/get-students"
 - The `src/user.py` file is not part of the student API logic but shows additional Python and Pydantic usage examples.
 
 ## License
-
-This project does not currently include a license file. If needed, add one depending on your intended usage.
+None
